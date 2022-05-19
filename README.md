@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N-JAMAL
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning computer science at one of local universities in Malawi
+- 🌱 I’m currently learning computer science at one of local the universities in Malawi
 - 💞️ I’m looking to collaborate on how to successfully build software products
 - 📫 you can email me on rashiengongondo@gmail.com 
 
